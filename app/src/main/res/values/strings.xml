@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskMasterAPP</string>
+    <string name="bienvenido">Bienvenido(a)</string>
+    <string name="fab_add_description">Añadir nueva tarea</string>
+</resources>
